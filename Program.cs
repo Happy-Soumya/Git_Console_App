@@ -11,7 +11,7 @@ Console.WriteLine("Name is "+employee.Name + " having ID : " + employee.Id + " o
 
 Customer customer = new ();
 customer.Id = 1;
-customer.Name = "Avhisekh gupta";
+customer.Name = "Ankush Mohanty";
 
 Console.WriteLine(customer.Name + " having ID : " + customer.Id);
 
