@@ -15,6 +15,9 @@ customer.Name = "Avhisekh gupta";
 
 Console.WriteLine(customer.Name + " having ID : " + customer.Id);
 
+int x = 89;
+int y = 87;
+int c = x + y;
 
 Student student = new Student();
 
