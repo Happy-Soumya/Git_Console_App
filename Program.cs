@@ -1,14 +1,14 @@
 ﻿using Git_Console_App.Models;
 
-Employee employee = new Employee();
+Employee employee = new ();
 
 employee.Id = 1;
 employee.Name = "Soumya";
-employee.Salary = 78000;
+employee.Salary = 89000;
 
 Console.WriteLine(employee.Name + " having ID : " + employee.Id + " of salary "+ employee.Salary);
 
-Customer customer = new Customer();
+Customer customer = new ();
 customer.Id = 1;
 customer.Name = "Happy";
 
