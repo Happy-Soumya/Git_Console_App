@@ -3,7 +3,7 @@
 Employee employee = new ();
 
 employee.Id = 1;
-employee.Name = "Soumya";
+employee.Name = "Soumya Ranjan Ojha";
 employee.Salary = 89000;
 
 Console.WriteLine(employee.Name + " having ID : " + employee.Id + " of salary "+ employee.Salary);
