@@ -6,4 +6,11 @@ employee.Id = 1;
 employee.Name = "Soumya";
 
 Console.WriteLine(employee.Name + " having ID : " + employee.Id);
+
+Customer customer = new Customer();
+customer.Id = 1;
+customer.Name = "Happy";
+
+Console.WriteLine(customer.Name + " having ID : " + customer.Id);
+
 Console.ReadLine();
