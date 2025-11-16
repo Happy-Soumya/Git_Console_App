@@ -13,4 +13,7 @@ customer.Name = "Happy";
 
 Console.WriteLine(customer.Name + " having ID : " + customer.Id);
 
+
+Student student = new Student();
+
 Console.ReadLine();
